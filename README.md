@@ -2,7 +2,7 @@ This is a data repository for the paper titled:
 
 
 
-[**Chemistry Beyond the Scale of Exact Solutions on a Quantum-Centric Supercomputer.**](https://arxiv.org/abs/2405.05068)
+[**Chemistry Beyond the Scale of Exact Diagonalization on a Quantum-Centric Supercomputer.**](https://arxiv.org/abs/2405.05068)
 
 This repository contains for all molecules considered in the study:
 
