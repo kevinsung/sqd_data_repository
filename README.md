@@ -17,6 +17,8 @@ This repository contains for all molecules considered in the study:
     - Energies obtained by running SQD on samples obtained from the uniform distribution: ``/experiments/{molecule name}/sqd_on_uniform_distribution``.
 
 
+- Numerics on noiseless performance of SQD: ``/numerics``
+ 
+The SQD implementation can be found in the python package [qiskit-addon-sqd](https://docs.quantum.ibm.com/guides/qiskit-addons-sqd). It is an open source project version-controlled on [GitHub](https://github.com/Qiskit/qiskit-addon-sqd). In the manuscript we used the ``0.1.0`` version of the package. Note that all versions of the package are available on both [GitHub](https://github.com/Qiskit/qiskit-addon-sqd) and [PyPI](https://pypi.org/simple/qiskit-addon-sqd/). 
 
-
-
+This [tutorial](https://github.com/Qiskit/qiskit-addon-sqd/blob/main/docs/tutorials/01_chemistry_hamiltonian.ipynb) implements the same SQD workflow as in the manuscript.
